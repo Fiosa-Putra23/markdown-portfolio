@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [x] Drawing ✏️
+- [x] Programming Arduino LOL 🖥️
+- [x] listening to music 🎧
