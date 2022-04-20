@@ -1,0 +1,3 @@
+- [x] Drawing ✏️
+- [x] Programming Arduino LOL 🖥️
+- [x] listening to music 🎧
